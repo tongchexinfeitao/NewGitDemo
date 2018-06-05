@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     /**
-     * 这是入口
+     * 这是入口,是activity的入口
      * @param savedInstanceState
      */
     @Override
