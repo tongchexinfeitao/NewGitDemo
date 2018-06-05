@@ -17,6 +17,10 @@ public class MainActivity extends AppCompatActivity {
     public static final int MAX_AGE = 100;
 
 
+    /**
+     * 这是入口
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
