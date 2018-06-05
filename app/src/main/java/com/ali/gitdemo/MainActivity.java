@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
-//大驼峰 每一个单词首字母都是大写   这是一个git的demo
+//大驼峰 每一个单词首字母都是大写   这是一个git的demo    小A是个猪一样的队友
 public class MainActivity extends AppCompatActivity {
 
     //小驼峰  第一个单词首字母小写  如果是成员变量命名可以以m开头
