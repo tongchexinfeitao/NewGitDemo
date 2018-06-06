@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     //常量的命名是全部大写，单词之间用下划线分割
     public static final int MAX_AGE = 100;
 
+    //wo shi dev 分支 开发的功能
 
     /**
      * 这是入口,是activity的入口
