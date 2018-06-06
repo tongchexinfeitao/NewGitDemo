@@ -18,6 +18,9 @@ public class MainActivity extends AppCompatActivity {
 
     //wo shi dev 分支 开发的功能
 
+
+    //没有add 和commit 直接切换分支
+
     /**
      * 这是入口,是activity的入口
      * @param savedInstanceState
